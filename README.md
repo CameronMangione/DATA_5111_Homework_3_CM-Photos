@@ -9,4 +9,4 @@ HW3_Problem2: All of Problem 2
 
 HW3_Problem3: Most of Problem 3.1
 
-HW3_Problem3.1: Resof Problem 3.1 and all of Problem 3.2
+HW3_Problem3.1: Rest of Problem 3.1 and all of Problem 3.2
