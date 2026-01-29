@@ -5,6 +5,8 @@ HW3_Problem 1: Problem 1.1 and half of 1.2
 
 HW3_Problem 1.2: Rest of Problem 1.2
 
+HW3_Problem 1.2_expanded: Shows more detialed and expanded proof for a2V(X).
+
 HW3_Problem2: All of Problem 2
 
 HW3_Problem3: Most of Problem 3.1
